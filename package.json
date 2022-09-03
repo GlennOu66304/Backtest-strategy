@@ -1,0 +1,19 @@
+{
+  "name": "wangzuxian",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "[Data45 **wangzuxian.py** ](https://github.com/GlennOu66304/Data45/blob/main/Chapter10/wangzuxian.py)",
+  "main": "xpath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "node-fetch": "^3.2.10"
+  },
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.1"
+  }
+}
