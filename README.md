@@ -8,7 +8,7 @@ simply upgrade the websocket to the latest version
 python3 -m pip install --upgrade websockets
 ```
 
-
+[Python 3.10 support (loop parameter was removed from Lock()) ](https://github.com/aaugustin/websockets/issues/916)
 
 
 

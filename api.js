@@ -3,8 +3,8 @@
 
 import fetch from 'node-fetch'
 import hmacSHA384 from 'crypto-js/hmac-sha384.js';
-const apiKey = 'Qqm88VbzvveuscHA7GcLBr4ll7vlq6tGMSAmCu74RBc' // const apiKey = 'paste key here'
-const apiSecret = 'lupyHwQqVF01Nkx21On94l5kAiXYrkW6f1uRU0ebAyz' // const apiSecret = 'paste secret here'
+const apiKey = 'xxxxx' // const apiKey = 'paste key here'
+const apiSecret = 'xxxxxx' // const apiSecret = 'paste secret here'
 
 const apiPath = 'v2/auth/r/wallets'// Example path
 

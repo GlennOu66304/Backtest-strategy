@@ -12,8 +12,8 @@ base_url = "https://api.bitfinex.com/"
 endpoint = "v2/auth/r/wallets"
 url = base_url + endpoint
 
-apiKey = 'Qqm88VbzvveuscHA7GcLBr4ll7vlq6tGMSAmCu74RBc'
-apiSecret = 'lupyHwQqVF01Nkx21On94l5kAiXYrkW6f1uRU0ebAyz'.encode()
+apiKey = 'xxxx'
+apiSecret = 'xxxxxx'.encode()
 
 # nonce
 
